@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/agasfsnk.png" width="150" style="border-radius: 50%;" alt="Profile Picture"/>
+  <img src="https://github.com/agasfsnk.png" width="200" style="border-radius: 50%;" alt="Profile Picture"/>
 </p>
 
 <h1 align="center">Agas Pratama</h1>
@@ -7,7 +7,10 @@
 <p align="center">
   💻 Self-taught Programmer | 🐧 Linux Enthusiast
 </p>
-
+---
+<p align="center">
+  <img src="haru/haru-urara-haru.gif" width="500"/>
+</p>
 ---
 ### Get in touch!
 <p align="center">
