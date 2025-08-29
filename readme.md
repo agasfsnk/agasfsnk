@@ -7,11 +7,10 @@
 <p align="center">
   💻 Self-taught Programmer | 🐧 Linux Enthusiast
 </p>
----
 <p align="center">
   <img src="haru/haru-urara-haru.gif" width="500"/>
 </p>
----
+
 ### Get in touch!
 <p align="center">
   <a href="https://facebook.com/agasptama"><img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
