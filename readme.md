@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/agasfsnk" width="150" style="border-radius: 50%;" alt="Profile Picture"/>
+  <img src="https://github.com/agasfsnk.png" width="150" style="border-radius: 50%;" alt="Profile Picture"/>
 </p>
 
 <h1 align="center">Agas Pratama</h1>
@@ -9,7 +9,6 @@
 </p>
 
 ---
-
 ### Get in touch!
 <p align="center">
   <a href="https://facebook.com/agasptama"><img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
